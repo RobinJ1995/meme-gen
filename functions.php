@@ -169,7 +169,7 @@ function memegen_sanitize( $input ) {
 
 
 function dd(...$things) {
-    die(var_dump($things));
+	die(var_dump($things));
 }
 
 
